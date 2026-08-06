@@ -100,6 +100,9 @@ src/
 - **Lucide React** for icons
 - **Modern CSS Grid & Flexbox** for layouts
 
+Frontend(https://ai-receipe-hub.onrender.com)
+Backend(https://ai-receipe-hub-backend.onrender.com)
+
 ## Color Scheme
 
 - **Primary**: Warm orange tones (#f2770a and variations)
